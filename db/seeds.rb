@@ -198,3 +198,642 @@ c11 = Card.create(
 )
 
 
+c12 = Card.create(
+    name:"Owls Thinking of You Halloween Card",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw11899609/images/finished-goods/Owls-Thinking-of-You-Halloween-Card_99HV6154_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dwac3bb061/images/finished-goods/Owls-Thinking-of-You-Halloween-Card_99HV6154_03.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw67b41deb/images/finished-goods/Owls-Thinking-of-You-Halloween-Card_99HV6154_07.jpg?sw=1920",
+    price:0.99,
+    front_message:"Guess whooooo is thinking of you on Halloween!",
+    inside_message:"Me! That's whooooo!",
+    detail_one:"Halloween greeting card features a cute design of hooting owls on tree branches and glossy accents paired with a thoughtful message.",
+    detail_two:"Includes one card and one envelope with a Gold Crown seal. Envelope color may vary.",
+    detail_three:"Card size: 5.75' W x 8.31' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+c13 = Card.create(
+    name:"Disney/Pixar Cars Mater Vampire Halloween Card for Grandson",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw49b7f947/images/finished-goods/DisneyPixar-Cars-Mater-Vampire-Grandson-Halloween-Card_200HV2335_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw4af6863a/images/finished-goods/DisneyPixar-Cars-Mater-Vampire-Grandson-Halloween-Card_200HV2335_06.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw1456ee00/images/finished-goods/DisneyPixar-Cars-Mater-Vampire-Grandson-Halloween-Card_200HV2335_07.jpg?sw=1920",
+    price:2.50,
+    front_message:"Grandson Truck or Treat!",
+    inside_message:"Hope you're all geared up for lots of sweet fun on Halloween!",
+    detail_one:"Halloween greeting card for grandson features Mater from the Disney/Pixar 'Cars' movies in a fun vampire costume.",
+    detail_two:"Includes one card and one envelope with a Gold Crown seal. Envelope color may vary.",
+    detail_three:"Card size: 5.75' W x 8.31' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+c14 = Card.create(
+    name:"Orange Kitten Halloween Card for Granddaughter",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw7d9f21f7/images/finished-goods/Orange-Kitten-Halloween-Card-for-Granddaughter_200HV5236_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw99b0f0a5/images/finished-goods/Orange-Kitten-Halloween-Card-for-Granddaughter_200HV5236_06.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dwfdf7e298/images/finished-goods/Orange-Kitten-Halloween-Card-for-Granddaughter_200HV5236_07.jpg?sw=1920",
+    price:2.30,
+    front_message:"Hi, Granddaughter!",
+    inside_message:"You're a meow-velous granddaughter with a fun purr-sonality. Hope your Halloween's purr-fection... just like you.",
+    detail_one:"Halloween greeting card for granddaughter features a photo of an orange tabby kitten surrounded by pumpkins. Shiny purple foil accents add fun.",
+    detail_two:"Includes one card and one envelope with a Gold Crown seal. Envelope color may vary.",
+    detail_three:"Card size: 5.75' W x 8.31' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+c15 = Card.create(
+    name:"Happy Pumpkin Season Halloween Card",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw869850ea/images/finished-goods/A-Trio-of-Smiling-JackoLanterns-Halloween-Card_99HV5056_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dwd26bff6e/images/finished-goods/A-Trio-of-Smiling-JackoLanterns-Halloween-Card_99HV5056_06.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw0c733911/images/finished-goods/A-Trio-of-Smiling-JackoLanterns-Halloween-Card_99HV5056_07.jpg?sw=1920",
+    price:0.99,
+    front_message:"Happy Halloween",
+    inside_message:"You're very special, and that's a good reason to send this to say, 'Happy Pumpkin season!'",
+    detail_one:"Halloween greeting card features a carved pumpkins design with glitter accents and foil lettering.",
+    detail_two:"Includes one card and one envelope with a Gold Crown seal. Envelope color may vary.",
+    detail_three:"Card size: 5.75' W x 8.31' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+c16 = Card.create(
+    name:"Graveyard Scene Pop-Up Musical Halloween Card With Light",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw630837be/images/finished-goods/Graveyard-PopUp-Music-and-Light-Halloween-Card_899HJD3039_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw8de1c97e/images/finished-goods/Graveyard-PopUp-Music-and-Light-Halloween-Card_899HJD3039_06.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw504f2ffa/images/finished-goods/Graveyard-PopUp-Music-and-Light-Halloween-Card_899HJD3039_07.jpg?sw=1920",
+    price:8.99,
+    front_message:"BOO to YOU!",
+    inside_message:"And Happy Halloween, too!",
+    detail_one:"Musical Halloween greeting card features a layered, dimensional design with die-cut edges on a displayable base.",
+    detail_two:"Press the button to hear music and see the tombstone light up.",
+    detail_three:"Card size: 5.75' W x 8.31' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+c17 = Card.create(
+    name:"Peanuts® Great Pumpkin 3D Pop-Up Halloween Card With Sound and Light",
+    img_one:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw6d4c2446/images/finished-goods/Peanuts-Great-Pumpkin-PopUp-Sound-&-Light-Halloween-Card_999HJD1027_01.jpg?sw=1920",
+    img_two:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw82627073/images/finished-goods/Peanuts-Great-Pumpkin-PopUp-Sound-&-Light-Halloween-Card_999HJD1027_06.jpg?sw=1920",
+    img_three:"https://www.hallmark.com/dw/image/v2/AALB_PRD/on/demandware.static/-/Sites-hallmark-master/default/dw54393cb2/images/finished-goods/Peanuts-Great-Pumpkin-PopUp-Sound-&-Light-Halloween-Card_999HJD1027_07.jpg?sw=1920",
+    price:9.99,
+    front_message:"No front message available for this card.",
+    inside_message:"No inside message available for this card.",
+    detail_one:"Pop-up Halloween greeting card plays Linus's speech from 'It's The Great Pumpkin, Charlie Brown' and lights up when you push a button. Card features a three-dimensional, laser-cut scene of Peanuts pals Linus, Sally and Snoopy in the moonlit pumpkin patch while Lucy, Charlie Brown and others go trick-or-treating. Designed base for display. Includes a removable die-cut mini card for your signature.",
+    detail_two:"Innovative 3D design is a work of art sure to be displayed all year long. Simply pull down on sides of card and push up base to pop it open and lock into place—no assembly required.",
+    detail_three:"Card pkg. size: 6.5' W x 9.4' H",
+    featured:true,
+    special:false,
+    clearance:false
+)
+
+# c18 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c19 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c20 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c21 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c22 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c23 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c24 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c25 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c26 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c27 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c28 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c29 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c30 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c31 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c32 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c33 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c34 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c35 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c36 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c37 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c38 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c39 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c40 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c41 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c42 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c43 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c44 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c45 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c46 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c47 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c48 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c49 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c50 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
+
+# c51 = Card.create(
+#     name:"",
+#     img_one:"",
+#     img_two:"",
+#     img_three:"",
+#     price:,
+#     front_message:"",
+#     inside_message:"",
+#     detail_one:"",
+#     detail_two:"",
+#     detail_three:"",
+#     featured:true,
+#     special:false,
+#     clearance:false
+# )
